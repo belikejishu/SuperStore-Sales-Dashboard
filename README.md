@@ -1,5 +1,4 @@
 # SuperStore-Sales-Dashboard
-The project provided valuable learnings in mastering Data Analysis techniques, especially Time Series Analysis, to drive business success with valuable insights and precise sales forecasts
 
 ![Dashboard](https://github.com/belikejishu/SuperStore-Sales-Dashboard/assets/114802016/5f36d952-323c-4ecc-9103-8c205704e49e)
 
