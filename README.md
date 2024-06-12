@@ -1,4 +1,4 @@
-# SuperStore-Sales-Dashboard
+# SuperStore-Sales-Dashboard1
 
 ![Dashboard](https://github.com/belikejishu/SuperStore-Sales-Dashboard/assets/114802016/5f36d952-323c-4ecc-9103-8c205704e49e)
 
